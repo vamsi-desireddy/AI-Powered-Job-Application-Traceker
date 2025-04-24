@@ -1,0 +1,15 @@
+body {
+  background-color: #f8f9fa; /* Bootstrap default light gray */
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  color: #343a40; /* Bootstrap dark gray */
+}
+
+.custom-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
